@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "dateOfObservance": "2026-01-01",
+    "title": "New Year's Day",
+    "description": "Celebrate the start of the new year with joy and happiness.",
+    "image": "https://cdn-icons-png.flaticon.com/512/1534/1534020.png",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "id": 2,
+    "dateOfObservance": "2026-02-14",
+    "title": "Valentine's Day",
+    "description": "A day to celebrate love and affection between partners.",
+    "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "isActive": true,
+    "isDeleted": false
+  }
+]
